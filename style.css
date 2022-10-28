@@ -1,0 +1,21 @@
+#parrafo1{
+    color: chartreuse;
+    background-color: black;
+}
+h1{
+    color:blue;
+
+}
+h3{
+    color: coral;
+}
+#parrafo2{
+    color: aqua;
+}
+.color-red{
+    color: red;
+}
+body{
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5PNtg-1ht9A6fIp1qK-UxB17wE7TLtbuIGEwEG3cCjQX6LaHnmHl9OCwbCFfKZM4XPrdkzTkNApN4oH_fEyBU_h6W8B4pkSPwXJY-zRftsEOBXDLBffDX_hu0Z6hXAgQgyNph_ZgBW3h3J4Y4h2BnjSM5AaEleWM7FcW697ak1Mxot6bpL9EBtfc1Yg/s1920/293841233_817451542949227_1090585306795090598_n.jpg);
+    background-size: cover;
+}
